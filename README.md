@@ -1,6 +1,7 @@
 # BookScraper
 # 
-# 
+# It was also possible to use interfaces and even further specific their implementation.
+# in a particular task I saw no need to use it. 
 # 
 # Prerequisites
 - **Docker: Ensure Docker and Docker Compose are installed on your machine.
